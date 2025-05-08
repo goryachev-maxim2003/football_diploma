@@ -1,0 +1,8 @@
+venv
+data
+data_parquet
+data_csv
+data_copy
+old_data
+processed_data
+*.csv
